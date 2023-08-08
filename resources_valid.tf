@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "opa_bucket" {
-  bucket        = "opa-encryption-testing-now-in-cicd"
+  bucket        = "opa-encryption-testing-now-in-cicd-wfjhbwhksdwsa"
   acl           = "private"
   force_destroy = true
     tags = {
